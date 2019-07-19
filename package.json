@@ -1,0 +1,11 @@
+{
+  "name": "TitanicClient",
+  "version": "1.0",
+  "main": "main.js",
+  "repository": "https://github.com/Sowdane/TitanicClient.git",
+  "author": "Sowdane <contactfalcoyt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
